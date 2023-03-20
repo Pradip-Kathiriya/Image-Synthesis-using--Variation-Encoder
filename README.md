@@ -1,3 +1,3 @@
-##Description
+## Description
 
-The goal of this project is synthesize the image using 
+The goal of this project is to synthesize the image using $\beta$-variational encoder
