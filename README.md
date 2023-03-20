@@ -26,7 +26,6 @@ $\beta$-VAE attempts to learn a disentangled representation of conditionally ind
 ![test image](https://user-images.githubusercontent.com/90370308/226412534-218ad78b-687b-4274-8ab9-51552d494850.png) -->
 
 - Interpolation of two image by walking in latent space from image 1 to image 2 in 16 steps.
-
 ![interpolation_1](https://user-images.githubusercontent.com/90370308/226414289-fe6d59f3-2a79-451e-b624-ab6298cc3148.png)
 ![interpolation_2](https://user-images.githubusercontent.com/90370308/226414309-7041e15d-78cd-4a02-96d5-c0a888c0a75c.png)
 ![interpolation_3](https://user-images.githubusercontent.com/90370308/226414333-b3f98493-7386-4f26-91e8-914dad36cc99.png)
