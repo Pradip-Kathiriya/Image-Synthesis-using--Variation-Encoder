@@ -25,12 +25,27 @@ $\beta$-VAE attempts to learn a disentangled representation of conditionally ind
 <!-- - Test images
 ![test image](https://user-images.githubusercontent.com/90370308/226412534-218ad78b-687b-4274-8ab9-51552d494850.png) -->
 
-- Interpolation of two image by walking in latent space from image 1 to image 2 in 16 steps
+- Interpolation of two image by walking in latent space from image 1 to image 2 in 16 steps.
 
 ![interpolation_1](https://user-images.githubusercontent.com/90370308/226414289-fe6d59f3-2a79-451e-b624-ab6298cc3148.png)
 ![interpolation_2](https://user-images.githubusercontent.com/90370308/226414309-7041e15d-78cd-4a02-96d5-c0a888c0a75c.png)
 ![interpolation_3](https://user-images.githubusercontent.com/90370308/226414333-b3f98493-7386-4f26-91e8-914dad36cc99.png)
 ![interpolation_4](https://user-images.githubusercontent.com/90370308/226414347-99092bda-83f9-46b8-b0b5-b74941d34e7e.png)
+
+- The cluster of mean of the distribution corrosponding to the input data points. The mean are compressed from 20 dimensions to 2 dimensions for visualization. It is worth noting how mean are random at the epoch 0 and cluster together at epoch 10. 
+
+![Distribution_in_latent_space](https://user-images.githubusercontent.com/90370308/226415030-a97b105a-315b-4a4d-aeb6-2ae256a4123e.png)
+
+## Requirement
+Python 2.0 or above
+
+## License
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Copyright (c) Feb 2023 Pradip Kathiriya
+
+
 
 
 
